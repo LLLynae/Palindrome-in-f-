@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIlwkWUBPKOAO1uFm+Un7LhoJjdGRPFuADohddisTqIHACrAAo15scR8d0MitNKSFXnW4gX6Ee8/mA3pDb69/g==",
+  "success": true,
+  "projectFilePath": "/Users/laurenlira/Documents/Coding_BusinessandSchool/VisualBasic/Palindrome/Palindrome/Palindrome.fsproj",
+  "expectedPackageFiles": [
+    "/Users/laurenlira/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
